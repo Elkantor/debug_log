@@ -1,0 +1,8 @@
+{
+    "name":"debug_log",
+    "version":"0.1.0",
+    "description":"A simple header only file to easily log debug information on console",
+    "src":[
+        "./include/debug_log.h"
+    ]
+}
