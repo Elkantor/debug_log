@@ -39,7 +39,7 @@ In function main, from main.c, line 4
 ```
 
 
-Or to print an integer value (or whatever types you want) :
+Or to print an integer value (or whatever type you want, in a classical way) :
 
 ```C
 // in main.c file
@@ -52,7 +52,7 @@ int main(int argc, char** argv){
 }
 ```
 
-Which print :
+Which prints :
 ```shell
 [DEBUG_LOG]: Test value : 4 
 In function main, from main.c, line 5
