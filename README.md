@@ -19,7 +19,7 @@ Then, include this header file which will be contained under **deps/debug_log/in
 
 ## Getting started
 
-This are some example to use this small utility :
+These are some example to use this small utility :
 
 ```C
 // in main.c file
@@ -39,7 +39,7 @@ In function main, from main.c, line 4
 ```
 
 
-You can do classical things like this too, to print integer (or whatever types you want) :
+Or to print an integer value (or whatever types you want) :
 
 ```C
 // in main.c file
