@@ -19,7 +19,7 @@ Then, include this header file which will be contained under **deps/debug_log/in
 
 ## Getting started
 
-These are some example to use this small utility :
+These are some examples to use this small utility :
 
 ```C
 // in main.c file
