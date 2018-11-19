@@ -2,8 +2,9 @@
 [![Standard](https://img.shields.io/badge/C-89-blue.svg)](https://en.wikipedia.org/wiki/C%2B%2B17)
 
 # debug_log
-> debug_log is a really small c utility, contained in a single header file.
+> debug_log is a really small C utility, contained in a single header file.
 It's juste a #define which enable you to keep trace of your debug information (print the file and the function name where the debug information is printed).
+[IMPORTANT] : this #define declaration will work only in a Debug configuration (without the NDEBUG compiler flag). 
 
 ## Installing
 
