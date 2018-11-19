@@ -1,5 +1,5 @@
 [![Language](https://img.shields.io/badge/language-C-blue.svg)](https://isocpp.org/)
-[![Standard](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://en.wikipedia.org/wiki/C%2B%2B17)
+[![Standard](https://img.shields.io/badge/C-89-blue.svg)](https://en.wikipedia.org/wiki/C%2B%2B17)
 
 # debug_log
 > debug_log is a really small c utility, contained in a single header file.
