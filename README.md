@@ -39,7 +39,7 @@ In function main, from main.c, line 4
 ```
 
 
-You can do classical things like this too (because it's just a char*):
+You can do classical things like this too, to print integer (or whatever types you want) :
 
 ```C
 // in main.c file
@@ -47,7 +47,7 @@ You can do classical things like this too (because it's just a char*):
 
 int main(int argc, char** argv){
   int test_value = 4;
-  DEBUG_LOG("Test value : %d");
+  DEBUG_LOG("Test value : %d", test_value);
   return 0;
 }
 ```
