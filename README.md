@@ -39,7 +39,7 @@ In function main, from main.c, line 4
 ```
 
 
-But as a classic "char*" parameter, you can do classical things like :
+You can do classical things like this too (because it's just a char*):
 
 ```C
 // in main.c file
